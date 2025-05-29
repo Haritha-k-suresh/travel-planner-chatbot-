@@ -1,20 +1,22 @@
-# travel-planner-chatbot-
+
+
+---
 
 ```markdown
 # 🌍 Travelexa – Your Smart Trip Planning Assistant ✈️
 
-Travelexa is an intelligent, interactive travel planning chatbot built using Streamlit and OpenAI's GPT-4o-mini. It acts as your personal trip advisor – helping you explore destinations, plan itineraries, and customize trips based on your preferences in real time.
+**Travelexa** is an intelligent, interactive travel planning chatbot built using Streamlit and OpenAI's GPT-4o-mini. It acts as your personal trip advisor – helping you explore destinations, plan itineraries, and customize trips based on your preferences in real time.
 
 ---
 
 ## ✨ Features
 
-- 💬 Conversational Interface: Chatbot powered by GPT-4o-mini
-- 🧠 Smart Planning: Analyzes your travel dates, people count, and interests
-- 📅 Daywise Itinerary: Generates detailed travel plans
-- 🌐 World Expertise: Knowledgeable in global destinations, events, food, and hotels
-- 🖥️ Streamlit UI: Clean and interactive frontend
-- 🔒 Secure API Handling: Uses `.env` for API key protection
+- 💬 Conversational Interface – Chatbot powered by GPT-4o-mini  
+- 🧠 Smart Planning – Analyzes your travel dates, people count, and interests  
+- 📅 Daywise Itinerary – Generates concise, professional travel plans  
+- 🌐 World Expertise – Knows destinations, events, food, and hotels worldwide  
+- 🖥️ Streamlit UI – Clean, responsive web interface  
+- 🔒 Secure API Handling – Uses `.env` for OpenAI API key protection  
 
 ---
 
@@ -23,7 +25,7 @@ Travelexa is an intelligent, interactive travel planning chatbot built using Str
 - [Python](https://www.python.org/)
 - [Streamlit](https://streamlit.io/)
 - [OpenAI GPT-4o-mini](https://openai.com/)
-- [dotenv](https://pypi.org/project/python-dotenv/)
+- [python-dotenv](https://pypi.org/project/python-dotenv/)
 
 ---
 
@@ -33,8 +35,8 @@ Travelexa is an intelligent, interactive travel planning chatbot built using Str
 
 📁 travelexa/
 ├── chatbot.py           # Main Streamlit app
-├── .env                 # Environment variable (API Key)
-├── .gitignore           # Ignores .env and unwanted files
+├── .env                 # Environment variable (API key, excluded from git)
+├── .gitignore           # Prevents sensitive files from being committed
 
 ```
 
@@ -44,8 +46,8 @@ Travelexa is an intelligent, interactive travel planning chatbot built using Str
 
 ### 🔧 Prerequisites
 
-- Python 3.8+
-- An OpenAI API key
+- Python 3.8 or higher
+- An OpenAI API key ([get yours here](https://platform.openai.com/account/api-keys))
 
 ### 🔐 Setup `.env` File
 
@@ -69,21 +71,21 @@ pip install streamlit openai python-dotenv
 streamlit run chatbot.py
 ```
 
-Visit `http://localhost:8501` in your browser.
+Then open your browser and visit: [http://localhost:8501](http://localhost:8501)
 
 ---
 
 ## 💬 How It Works
 
-* The assistant, Tripzy, begins the conversation by asking your destination, dates, number of travelers, and preferences.
-* After analyzing your responses, it creates a professional, concise daywise travel itinerary under 200 words.
-* Everything is displayed in a sleek chat interface powered by Streamlit.
+* The assistant, **Tripzy**, begins the conversation by asking your destination, travel dates, number of travelers, and preferences.
+* Based on your responses, it generates a professional, concise **daywise itinerary** (within 200 words).
+* The chatbot interface is powered by Streamlit for real-time interaction.
 
 ---
 
 ## 👤 Author
 
-Haritha K. Suresh
+**Haritha K. Suresh**
 B.Tech in Artificial Intelligence and Data Science
 📧 [harithaksuresh6@gmail.com](mailto:harithaksuresh6@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/haritha-k-suresh-92a55b275/)
@@ -98,4 +100,5 @@ This project is for educational and personal use only.
 
 ---
 
+Would you like me to save this into a `README.md` file in your project directory so you can commit it directly?
 ```
