@@ -77,7 +77,7 @@ Then open your browser and visit: [http://localhost:8501](http://localhost:8501)
 
 ## 💬 How It Works
 
-* The assistant, **Tripzy**, begins the conversation by asking your destination, travel dates, number of travelers, and preferences.
+* The assistant, Tripzy, begins the conversation by asking your destination, travel dates, number of travelers, and preferences.
 * Based on your responses, it generates a professional, concise **daywise itinerary** (within 200 words).
 * The chatbot interface is powered by Streamlit for real-time interaction.
 
@@ -96,9 +96,3 @@ B.Tech in Artificial Intelligence and Data Science
 
 This project is for educational and personal use only.
 
-```
-
----
-
-Would you like me to save this into a `README.md` file in your project directory so you can commit it directly?
-```
