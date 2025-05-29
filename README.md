@@ -3,7 +3,7 @@
 ```markdown
 # 🌍 Travelexa – Your Smart Trip Planning Assistant ✈️
 
-Travelexa is an intelligent, interactive travel planning chatbot built using **Streamlit** and **OpenAI's GPT-4o-mini**. It acts as your personal trip advisor – helping you explore destinations, plan itineraries, and customize trips based on your preferences in real time.
+Travelexa is an intelligent, interactive travel planning chatbot built using Streamlit and OpenAI's GPT-4o-mini. It acts as your personal trip advisor – helping you explore destinations, plan itineraries, and customize trips based on your preferences in real time.
 
 ---
 
@@ -98,5 +98,4 @@ This project is for educational and personal use only.
 
 ---
 
-Would you like me to save this as a `README.md` file in your folder, ready to commit?
 ```
