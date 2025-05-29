@@ -1,23 +1,20 @@
 # travel-planner-chatbot-
-Here's a complete `README.md` for your project **Travelexa**, a smart travel planner chatbot built using Streamlit and OpenAI:
-
----
 
 ```markdown
 # 🌍 Travelexa – Your Smart Trip Planning Assistant ✈️
 
-**Travelexa** is an intelligent, interactive travel planning chatbot built using **Streamlit** and **OpenAI's GPT-4o-mini**. It acts as your personal trip advisor – helping you explore destinations, plan itineraries, and customize trips based on your preferences in real time.
+Travelexa is an intelligent, interactive travel planning chatbot built using **Streamlit** and **OpenAI's GPT-4o-mini**. It acts as your personal trip advisor – helping you explore destinations, plan itineraries, and customize trips based on your preferences in real time.
 
 ---
 
 ## ✨ Features
 
-- 💬 **Conversational Interface**: Chatbot powered by GPT-4o-mini
-- 🧠 **Smart Planning**: Analyzes your travel dates, people count, and interests
-- 📅 **Daywise Itinerary**: Generates detailed travel plans
-- 🌐 **World Expertise**: Knowledgeable in global destinations, events, food, and hotels
-- 🖥️ **Streamlit UI**: Clean and interactive frontend
-- 🔒 **Secure API Handling**: Uses `.env` for API key protection
+- 💬 Conversational Interface: Chatbot powered by GPT-4o-mini
+- 🧠 Smart Planning: Analyzes your travel dates, people count, and interests
+- 📅 Daywise Itinerary: Generates detailed travel plans
+- 🌐 World Expertise: Knowledgeable in global destinations, events, food, and hotels
+- 🖥️ Streamlit UI: Clean and interactive frontend
+- 🔒 Secure API Handling: Uses `.env` for API key protection
 
 ---
 
@@ -78,15 +75,15 @@ Visit `http://localhost:8501` in your browser.
 
 ## 💬 How It Works
 
-* The assistant, **Tripzy**, begins the conversation by asking your destination, dates, number of travelers, and preferences.
-* After analyzing your responses, it creates a **professional, concise** daywise travel itinerary under 200 words.
+* The assistant, Tripzy, begins the conversation by asking your destination, dates, number of travelers, and preferences.
+* After analyzing your responses, it creates a professional, concise daywise travel itinerary under 200 words.
 * Everything is displayed in a sleek chat interface powered by Streamlit.
 
 ---
 
 ## 👤 Author
 
-**Haritha K. Suresh**
+Haritha K. Suresh
 B.Tech in Artificial Intelligence and Data Science
 📧 [harithaksuresh6@gmail.com](mailto:harithaksuresh6@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/haritha-k-suresh-92a55b275/)
